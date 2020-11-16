@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IPLFrontend"
+    }
+  },
+  "defaultProject": "IPLFrontend",
+  "cli": {
+    "analytics": false
+  }
 }
